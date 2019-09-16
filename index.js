@@ -14,7 +14,7 @@
   image[9] = 'images/inc-cover/inc11.jpg';
   image[10] = 'images/inc-cover/inc12.jpg';
   image[11] = 'images/inc-cover/inc13.jpg';
-  image[12] = 'images/inc-cover/inc14.jpg';
+  image[12] = 'images/inc-cover/inc12.jpg';
   image[13] = 'images/inc-cover/inc15.jpg';
   image[14] = 'images/inc-cover/inc16.jpg';
   image[15] = 'images/inc-cover/inc17.jpg';
