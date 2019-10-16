@@ -1,0 +1,51 @@
+a {
+  font-size: 1.5rem;
+}
+
+h1 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 3rem;
+  text-align: center;
+}
+
+h2 {
+  font-family: 'Montserrat', sans-serif;
+  font-size: 2.5rem;
+  text-align: center;
+}
+
+hr {
+  border-width: 2px;
+  border-color: #FE8383;
+}
+
+p {
+  font-size: 2rem;
+  margin: auto;
+  width:85%;
+  font-family: 'Playfair Display', serif;
+}
+
+td {
+  text-align: center;
+}
+
+.center {
+  text-align: center;
+}
+
+.restriction{
+  height:550px;
+  width:600px;
+}
+
+.slideshow{
+  overflow:hidden;
+  margin:auto;
+  width:50%;
+  height:50%;
+  border-width: 5px;
+  border-radius: 5px;
+  border-style: solid;
+  border-color: #ffffcc;
+}
